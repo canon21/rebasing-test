@@ -1,2 +1,7 @@
 Adding file in feature1 branch
+<<<<<<< HEAD
 Adding line by master. OK
+=======
+Adding line by master
+Adding line by feature1
+>>>>>>> Adding line in feature1
