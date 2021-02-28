@@ -1,2 +1,2 @@
 Adding file in feature1 branch
-Adding line by master
+Adding line by master. OK
