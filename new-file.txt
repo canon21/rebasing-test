@@ -1,1 +1,2 @@
 First file test
+Adding line by feature1
